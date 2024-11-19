@@ -1,11 +1,20 @@
 Insert INTO Tip_doc(Tipo)
 VALUES
-('AC'),
-('AF'),
-('RE'),
-('PL'),
-('SU');
-
+('CE'),
+('TI'),
+('CC'),
+('NI'),
+('RC'),
+('PA'),
+('ME'),
+('NU'),
+('MS'),
+('AS'),
+('CD'),
+('CN'),
+('SC'),
+('PE'),
+('PT');
 
 Insert INTO Identificacion(IdentificacionId,Numero,Fec_ini,Fec_fin,Tip_docId)
 VALUES
